@@ -11,7 +11,7 @@ def setup_cosmology_parameters(params):
     Setup cosmological parameters
     
     Args:
-        params: array of parameters [h, Ob, Ocdm, ns, A_s, sigma8]
+        params: array of parameters [h, omega_b, omega_cdm, ns, A_s, sigma8]
     
     Returns:
         Dictionary containing all cosmological parameters and objects
